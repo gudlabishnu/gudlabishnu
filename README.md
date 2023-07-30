@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gudlabishnu
 - 👀 I’m interested in Cyber Security and Networking
 - 📫 How to reach me 
--gudlabishnu03@gmail.com
+gudlabishnu03@gmail.com
 
 <!---
 gudlabishnu/gudlabishnu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
